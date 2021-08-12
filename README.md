@@ -1,3 +1,3 @@
 # api-concurrency-go
 
-REST APIs and go concurrenct implementations
+REST APIs and go concurrency implementations
